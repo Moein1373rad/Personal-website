@@ -1,0 +1,48 @@
+# Personal Website
+
+This repository contains the source code for my personal website. It serves as an online portfolio and showcases my work, skills, and achievements. The website is built using modern web technologies and follows responsive design principles to ensure compatibility across various devices.
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Technologies](#technologies)
+- [Getting Started](#getting-started)
+- [Customization](#customization)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+My personal website is a platform to present my professional profile, projects, blog posts, and contact information. It provides visitors with an overview of my skills, experiences, and interests. The website is designed to be visually appealing, user-friendly, and easy to navigate.
+
+## Features
+The website includes the following features:
+- Home Page: Introduction and brief summary of my profile
+- Projects Page: Showcase of my projects with descriptions, screenshots, and links
+- Blog: A collection of blog posts on various topics
+- About Me: Detailed information about my background, education, and experience
+- Contact Page: A form and contact details for visitors to get in touch
+
+## Technologies
+The website is built using the following technologies and frameworks:
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- jQuery
+- [Your preferred back-end technology, if applicable]
+
+## Getting Started
+To run the website locally, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/your-username/your-website.git`
+2. Navigate to the project directory: `cd your-website`
+3. Open the index.html file in your web browser.
+
+## Customization
+Feel free to customize the website to match your personal branding and style. You can modify the colors, layout, content, and add additional pages or sections to suit your needs. The code is well-structured and commented to make customization easier.
+
+## Contributing
+Contributions to the personal website repository are welcome! If you find any issues or have suggestions for improvement, please submit a pull request or open an issue on the repository.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
